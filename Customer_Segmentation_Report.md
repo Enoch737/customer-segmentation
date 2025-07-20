@@ -8,7 +8,7 @@ This project focuses on unsupervised customer segmentation using clustering algo
 ## Dataset Overview
 
 - **Source:** Kaggle - Customer Personality Analysis
-- **Size:** ~2,200 customer records
+- **Size:** 2,200 customer records
 - **Attributes:** Demographic data (Age, Income, Marital Status), behavioral traits (Spending on wines, fruits, meat, etc.), and enrollment dates.
 
 ## Objectives
@@ -33,9 +33,9 @@ This project focuses on unsupervised customer segmentation using clustering algo
    - Retained key variance-contributing features
 
 4. **Clustering Techniques**
-   - **KMeans Clustering** with optimal `k` based on Elbow Method
-   - **Agglomerative Hierarchical Clustering**
-   - **DBSCAN** for noise/outlier detection
+   - KMeans Clustering with optimal `k` based on Elbow Method
+   - Agglomerative Hierarchical Clustering
+   - DBSCAN, for noise/outlier detection
 
 5. **Evaluation**
    - Used Silhouette Scores and PCA plots to evaluate clusters
