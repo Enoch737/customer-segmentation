@@ -51,7 +51,7 @@ This project performs customer segmentation using **unsupervised clustering tech
 ## Author
 
 **Enoch Narteh-Kofi**  
-Student of Master of Financial Innovation and Technology  
+Student: Master of Financial Innovation and Technology  
 Smith School of Business, Queen’s University, Canada
 
 👉 [Read the full project report here](Customer_Segmentation_Report.md)
